@@ -1,8 +1,8 @@
-# Employee Reimbursement System - UTA-210621(EM)
+# Employee Management System - UTA-210621(EM)
 
 ## Project Description
 
-The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement. Project User Stories: As an employee I can: - Login - Logout - View the employee home page - Submit a reimbursement request - View pending reimbursement requests - View resolved reimbursement requests - View my account information - Update account information As a manager I can: - Login - Logout - View the manager home page - Approve/Deny pending reimbursement requests - View all pending requests of all employees - View all resolved requests of all employees - View reimbursement requests of a specific employee - View all employees
+The Expense Management System (EMS) will manage the process of Management employees for expenses incurred while on company time. All employees in the company can login and submit requests for Management and view their past tickets and pending requests. Finance managers can log in and view all Management requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense Management. Project User Stories: As an employee I can: - Login - Logout - View the employee home page - Submit a Management request - View pending Management requests - View resolved Management requests - View my account information - Update account information As a manager I can: - Login - Logout - View the manager home page - Approve/Deny pending Management requests - View all pending requests of all employees - View all resolved requests of all employees - View Management requests of a specific employee - View all employees
 
 ## Technologies Used
 
@@ -23,8 +23,7 @@ To-do list:
 
 ## Getting Started
    
-git remote and origin https://github.com/vasudevareddy214/Employee-Reimbursement-System---UTA-210621-EM-.git
-
+git remote and origin https://github.com/vasudevareddy214/Employee-Management-System.git
 
 > Compile and run java code for the server and DB connection
 >  Run code in eclipse IDE
